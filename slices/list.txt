@@ -1,0 +1,15 @@
+01 - course intro 
+02 - how program language works 
+03 - introduction to web3 
+04 - introduction to new smart contract and crowdfunding 
+05 - intro to webassembly and its application 
+06 - go module 
+
+
+
+
+
+pointer vs reference in C++, go only has pass by pointer,pass by pointer != pass by reference in C++ grammar 
+
+
+
